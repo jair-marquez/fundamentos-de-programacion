@@ -1,0 +1,1 @@
+#van a crear una lista vacia con su nombre y van a gregar 5 elementos de input: (nombre, preparatoria, lugar de residencia, edad, carrera)
