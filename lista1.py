@@ -1,0 +1,11 @@
+lista=["eduardo", "luis", "leo", "nat"]
+print (lista)
+print(lista[2])
+lista.append("fatima")
+print (lista)
+lista.insert (1, "javier")
+print (lista)
+lista.remove ("eduardo")
+print (lista)
+lista.pop(1)
+print (lista)
